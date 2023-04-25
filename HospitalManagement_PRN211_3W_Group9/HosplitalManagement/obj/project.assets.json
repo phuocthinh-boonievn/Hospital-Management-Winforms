@@ -2580,23 +2580,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PEATEA\\.nuget\\packages\\": {},
+    "C:\\My Developer Tools\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\PRN211_3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\HosplitalManagement.csproj",
+      "projectUniqueName": "C:\\Users\\PEATEA\\Desktop\\FPT Course\\PRN211 3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\HosplitalManagement.csproj",
       "projectName": "HosplitalManagement",
-      "projectPath": "C:\\Users\\PC\\Desktop\\PRN211_3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\HosplitalManagement.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\PRN211_3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\obj\\",
+      "projectPath": "C:\\Users\\PEATEA\\Desktop\\FPT Course\\PRN211 3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\HosplitalManagement.csproj",
+      "packagesPath": "C:\\Users\\PEATEA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PEATEA\\Desktop\\FPT Course\\PRN211 3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\HosplitalManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\My Developer Tools\\Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PEATEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2611,8 +2611,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\PRN211_3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\PRN211_3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\Repositories\\Repositories.csproj"
+            "C:\\Users\\PEATEA\\Desktop\\FPT Course\\PRN211 3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\PEATEA\\Desktop\\FPT Course\\PRN211 3W\\Group Project\\Hospital-Management-Winforms\\HospitalManagement_PRN211_3W_Group9\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -2645,7 +2645,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
